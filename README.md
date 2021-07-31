@@ -1,4 +1,7 @@
 # Portfolio | al-folio
+A Jekyll theme ([folio](https://github.com/bogoli/-folio) based theme) for academics.
+
+Originally published by [Lia Bogoev](https://github.com/bogoli/) and copyrighted under the MIT license.
 Inspired from [otiliastr](https://github.com/otiliastr) & [eaplatanios](https://github.com/eaplatanios)
 
 ## How to use this template for your website
