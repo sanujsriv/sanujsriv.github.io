@@ -1,6 +1,5 @@
-# Otilia Stretcu's personal webpage
-
-This is the personal website of Otilia Stretcu, which can be visualized at [https://otiliastr.github.io/](https://otiliastr.github.io/).
+# Portfolio | al-folio
+Inspired from [otiliastr](https://github.com/otiliastr) & [eaplatanios]https://github.com/eaplatanios
 
 ## How to use this template for your website
 
