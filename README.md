@@ -1,5 +1,5 @@
 # Portfolio | al-folio
-Inspired from [otiliastr](https://github.com/otiliastr) & [eaplatanios]https://github.com/eaplatanios
+Inspired from [otiliastr](https://github.com/otiliastr) & [eaplatanios](https://github.com/eaplatanios)
 
 ## How to use this template for your website
 
